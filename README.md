@@ -9,6 +9,3 @@ A de Bruijn sequence of order n on an alphabet A is a cyclic sequence in which e
       n order of the sequence
       a alphabet [def: “01”]
 
-
-
-# Functional Programming
