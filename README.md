@@ -3,7 +3,7 @@ A de Bruijn sequence of order n on an alphabet A is a cyclic sequence in which e
 
     -> ~ ./deBruijn
 
-    USAGE: ./deBruijn n [a] [--check|--unique|--clean]
+    USAGE: ./deBruijn n [a] [--check|--unique]
       --check check if a sequence is a de Bruijn sequence
       --unique check if 2 sequences are distinct de Bruijn sequences
       n order of the sequence
